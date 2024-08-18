@@ -41,6 +41,7 @@ body {
 .logo img {
   max-height: 40px;
   width: auto;
+  filter: drop-shadow(0 0 10px rgb(152, 42, 188, 0.8));
 }
 
 .menu-toggle {
